@@ -1,0 +1,16 @@
+@media (max-width:1600px){
+    .wenzi button{
+        color: #000;
+        background: #f00;
+        font-size: 43px;
+        padding: 5px 19px;
+        margin-left: 41rem;
+    }
+    .wenzi button:hover {
+        color: #fff;
+        background: #f00;
+        font-size: 43px;
+        padding: 5px 19px;
+        margin-left: 41rem;
+    }
+}
