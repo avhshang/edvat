@@ -1,0 +1,30 @@
+
+.wenzi{
+
+}
+.wenzi h1{
+
+    text-align: center;
+    font-size: 39px;
+    margin-top: 19rem;
+}
+.wenzi .p2{
+    text-align: center;
+    font-size: 30px;
+
+}
+.wenzi button{
+    color: #000;
+    background: #f00;
+    font-size: 43px;
+    padding: 5px 19px;
+    margin-left: 51rem;
+}
+.wenzi button:hover {
+    color: #fff;
+    background: #f00;
+    font-size: 43px;
+    padding: 5px 19px;
+    margin-left: 51rem;
+    transition: width 0.6s,background 0.6s,0.6s linear 0.6s;
+}

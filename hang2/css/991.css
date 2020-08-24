@@ -1,0 +1,19 @@
+@media (max-width:991px){
+    .wenzi h1 {
+        text-align: center;
+        font-size: 60px;
+        margin-top: 20rem;
+    }
+    .wenzi button {
+        color: #000;
+        background: #f00;
+        font-size: 43px;
+        padding: 10px 41px;
+        margin-left: 23rem;
+    }
+    .wenzi .p2 {
+        text-align: center;
+        font-size: 31px;
+        font-weight: 800;
+    }
+}

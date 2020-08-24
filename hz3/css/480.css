@@ -1,0 +1,8 @@
+@media (max-width:480px) {
+
+    .wenzi h1 {
+        text-align: center;
+        font-size: 48px;
+        margin-top: 35rem;
+    }
+}
